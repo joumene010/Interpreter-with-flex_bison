@@ -1,0 +1,5 @@
+To compile this project:
+-We need to install make 
+-To execute the project, type: make
+-Put the examples in the input file
+-To delete the binaries, type: make clean

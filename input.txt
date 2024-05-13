@@ -1,0 +1,1 @@
+select * from enseignant where class = 'IDISC1' AND NOM LIKE 'R*';
